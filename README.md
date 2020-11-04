@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+The repositories found here are just meant to be experiments and prototypes aimed at learning new things.
 <!--
 **AmaniKHunter/AmaniKHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
