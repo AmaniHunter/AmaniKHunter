@@ -4,6 +4,7 @@ The repositories found here are just meant to be experiments and prototypes aime
 
 ### Check out my apps on the Apple App Store.
 STEMate: https://apps.apple.com/us/app/stemate/id1499232769
+
 BuddyAR: https://apps.apple.com/us/app/buddy-ar/id1462207664
 <!--
 **AmaniKHunter/AmaniKHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
