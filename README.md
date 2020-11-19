@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 The repositories found here are just meant to be experiments and prototypes aimed at learning new things.
 
 
